@@ -83,9 +83,3 @@ li:hover{
     width: 100vw;
     left: 0px;
 }
-
-@media (max-width: 768px) {
-    .close-btn{
-        left: 265px;
-    }
-}
